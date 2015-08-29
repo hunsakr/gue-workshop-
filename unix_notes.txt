@@ -1,0 +1,148 @@
+man less
+history
+history | less
+history 
+cd
+pwd
+cd ..
+subl .
+ls /
+ls
+cd ~/src/
+cd /src/
+cd /src
+cd src/
+cd src
+cd ../..
+..
+open Graciela\ Espino\ Resume.docx 
+cd Documents/
+cd Movies/
+ls -l
+cd /Applications/
+cd ~/AppLications/
+cd ~/APLICATIONS/
+cd ~/temp/
+cd ~/temp
+cd ~/TEMP/
+cd ~/TEMP
+cd ~temp/
+cd ~TEMP/
+cd TEMP/
+ls -R
+ls -u
+man ls
+ls -a
+ls -r
+ls -lt
+cd ~/installer.failurerequests
+cd /installer.failurerequests
+ls -t
+cd /
+cd /Downloads/
+cd ~/Downloads/
+cd ~/Dowloads/
+git config --global user.name
+git config --global user.email
+subl /etc/paths
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'hunsaker.rob@gmail.com'
+git config --global user.name 'Rob Hunsaker'
+git --version
+brew install git
+brew info fish
+brew
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+preferences
+subl moving_around.txt 
+ls -t
+ls -t | less
+open moving_around.txt 
+ls
+history > moving_around.txt
+man less
+history
+history | less
+history 
+cd
+pwd
+cd ..
+subl .
+ls /
+cd ~/src/
+cd /src/
+cd /src
+cd src/
+cd src
+cd ../..
+..
+open Graciela\ Espino\ Resume.docx 
+cd Documents/
+cd Movies/
+ls -l
+cd /Applications/
+cd ~/AppLications/
+cd ~/APLICATIONS/
+cd ~/temp/
+cd ~/temp
+cd ~/TEMP/
+cd ~/TEMP
+cd ~temp/
+cd ~TEMP/
+cd TEMP/
+ls -R
+ls -u
+man ls
+ls -a
+ls -r
+ls -lt
+cd ~/installer.failurerequests
+cd /installer.failurerequests
+cd /
+cd /Downloads/
+cd ~/Downloads/
+cd ~/Dowloads/
+git config --global user.name
+git config --global user.email
+subl /etc/paths
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'hunsaker.rob@gmail.com'
+git config --global user.name 'Rob Hunsaker'
+git --version
+brew install git
+brew info fish
+brew
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+preferences
